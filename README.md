@@ -1,44 +1,60 @@
-
 <!-- 🌟 YOAV DORY | Computer Science & Entrepreneurship Student -->
 
 <h1 align="center">👋 Hey there, I'm <b>Yoav Dory</b></h1>
-<h3 align="center">Computer Science & Entrepreneurship student at Reichman University 🇮🇱</h3>
+<h3 align="center">Computer Science & Entrepreneurship Student at Reichman University 🇮🇱</h3>
 <p align="center">
-  Passionate about <b>Web Development</b>, <b>AI</b>, and turning ideas into real products.<br>
-  Always building, learning, and creating something new.
+  Passionate about <b>Web Development</b>, <b>AI</b>, and building meaningful products.<br>
+  Always learning, creating, and turning ideas into reality.
 </p>
 
 ---
 
-### 🚀 Projects
+### 🧠 Currently Learning
+- Data Structures & Algorithms (Python)
+- Object-Oriented Programming
+- React & Front-End Fundamentals
+- Startup Ideation and Product Design
+
+---
+
+### 🚀 Projects in Progress
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| **📚 Personal Learning Manager** | A smart productivity dashboard for students integrating with Notion & AI tools | Python · React · Notion API |
-| **💡 Mini AI Tools** | A collection of small AI-based utilities for everyday tasks | Python · OpenAI API |
-| **🌐 Portfolio Website** | A clean personal site showcasing my projects and experience | HTML · CSS · JavaScript |
+| **📚 Personal Learning Manager** | Smart dashboard for students integrating AI + Notion API | Python · React · Notion API |
+| **💡 Mini AI Tools** | Simple AI-based utilities for everyday tasks | Python · OpenAI API |
+| **🌐 Portfolio Website** | Clean and minimalist site to showcase my work | HTML · CSS · JavaScript |
 
 ---
 
-### 💻 Tech Stack
+### 🧰 Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,git,notion,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,git,notion,figma,vscode" />
 </p>
 
 ---
 
-### 🧠 Interests
-- Building **useful tech** with entrepreneurial value  
-- Exploring **AI-driven learning** and personal growth  
-- Combining **design + logic** to craft intuitive experiences  
+### 🎯 Goals for 2025
+- Build a fully functional SaaS app for students  
+- Contribute to an open-source project  
+- Land a tech internship combining code + entrepreneurship  
+- Launch a small startup project before graduation
 
 ---
 
-### 🧩 Currently Working On
-> Creating a minimalist productivity system for students that blends technology, psychology, and a bit of chaos.
+### 💬 Fun Fact
+> I debug my code faster when I pretend it’s judging me.
 
 ---
 
-### 📫 Connect with Me
+### ⚙️ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoavdory&show_icons=true&theme=default" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoavdory&theme=default" height="160">
+</p>
+
+---
+
+### 🌍 Connect with Me
 <p align="center">
   <a href="mailto:yoavdory5@gmail.com"><img src="https://img.shields.io/badge/Email-yoavdory5%40gmail.com-blue?logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
@@ -47,20 +63,14 @@
 
 ---
 
-### ⚙️ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoavdory&show_icons=true&theme=default" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoavdory&layout=compact&theme=default" height="160">
-</p>
-
----
-
 ### ✨ Quote I Live By
-> “The distance between a dream and reality is called action.”  
+> “The distance between a dream and reality is called action.”
 
 ---
 
 <p align="center">
-  <sub>🧭 Built with curiosity, caffeine, and a lot of late nights.</sub>
+  <sub>🧭 Built with curiosity, caffeine, and the occasional all-nighter.</sub>
 </p>
+
+
 
