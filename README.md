@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/yoavdory/yoavdory/main/header.jpeg" alt="Snowy Mountains" width="100%">
 
 <!-- 🌟 YOAV DORY | Computer Science & Entrepreneurship Student -->
 
